@@ -17,7 +17,6 @@ A simple, interactive, and responsive **Tic Tac Toe game** built using **HTML, C
 
 👉 **[Play Tic Tac Toe Online](https://aritraghorai053.github.io/Tic-Tac-Toe-Game/)**
 
-> Replace `your-username` with your GitHub username and make sure GitHub Pages is enabled for your repository.
 
 ## ✨ Features
 
